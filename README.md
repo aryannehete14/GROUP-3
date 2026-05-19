@@ -1,5 +1,7 @@
 # Intelligent Expense Categorizer using OCR
 
+<img width="804" height="822" alt="WhatsApp Image 2026-05-19 at 12 16 45 PM" src="https://github.com/user-attachments/assets/22c5b31c-c94e-46ad-ab85-7cde7f08b077" />
+
 ## Overview
 
 Intelligent Expense Categorizer is a Python-based application that automates receipt scanning and expense tracking using OCR (Optical Character Recognition).
